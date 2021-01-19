@@ -4,7 +4,7 @@
   "description": "hyuncho's blog well done is better than well said",
   "version": "1.0.0",
   "author": "Hyuncho <hyuncho@nhn.com>",
-  "license": "MIT",
+  "license": "0BSD",
   "starter-name": "gatsby-starter-minimal-blog",
   "scripts": {
     "build": "gatsby build",
