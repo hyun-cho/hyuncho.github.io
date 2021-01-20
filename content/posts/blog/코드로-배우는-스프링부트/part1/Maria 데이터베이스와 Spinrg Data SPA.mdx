@@ -1,14 +1,12 @@
 ---
 title: "Maria 데이터베이스와 Spring Data JPA"
 date: 2021-01-19
-description: "코드로 배우는 스프링부트 part1/chapter2"
-slug: "/Blog/코드로-배우는-스프링부트/part1/chapter2"
+description: "코드로 배우는 스프링부트 part1/chapter2 Maria 데이터베이스와 Spinrg Data SPA"
+slug: "/blog/코드로-배우는-스프링부트/part1/Maria 데이터베이스와 Spinrg Data SPA"
 tag:
     - Spring
     - Spring Boot
     - Maria DB
-banner: 
-canonicalUrl: "https://random-blog-about-curses.com"
 ---
 
 # Chapter 2 Maria 데이터베이스와 Spring Data JPA
@@ -31,7 +29,7 @@ canonicalUrl: "https://random-blog-about-curses.com"
 - JPA는 내부적으로 이런 처리를 'Dialect'라는 존재를 이용해서 처리를
 - findAll()이라는 메서드를 사용
   - JpaRepository 인터페이스의 상위인 PagingAndSorRepository의 메서드로 파라미터로 전달되는 Pageableㅣ라는 타입의 객체에 의해서 실행되는 쿼리를 결정
-  - Return type이 Page<T>라면 꼭 Pageable 파라미터로 이용해야 한다.
+  - Return type이 `Page<T>`라면 꼭 Pageable 파라미터로 이용해야 한다.
 - Pageable 인터페이스
 - `org.springframework.data.domain.PageRequest` 라는 클래스를 사용
   - `protected`로 선언되어 `new`를 선언할 수 없다.
