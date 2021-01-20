@@ -60,7 +60,7 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-de44d8c63748167afa97.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
-/Blog/코드로-배우는-스프링부트/part1/ORM과JPA
+/Blog/TIL/ORM과-JPA
   Link: </webpack-runtime-9e431868ed57b2a62fbf.js>; rel=preload; as=script
   Link: </framework-305b3707783ccc9d7ca6.js>; rel=preload; as=script
   Link: </app-6652ebdc6aace9a78ec0.js>; rel=preload; as=script
@@ -68,7 +68,16 @@
   Link: </a75e6e4d1b7feebda3ca1479eef2fbcc6776bb12-1394338478a8b046a203.js>; rel=preload; as=script
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-5f1c9138184a81cae7bf.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/Blog/코드로-배우는-스프링부트/part1/ORM과JPA/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/Blog/TIL/ORM과-JPA/page-data.json>; rel=preload; as=fetch; crossorigin
+/Blog/Gatsby와-Github-Pages를-활용한-블로그-배포
+  Link: </webpack-runtime-9e431868ed57b2a62fbf.js>; rel=preload; as=script
+  Link: </framework-305b3707783ccc9d7ca6.js>; rel=preload; as=script
+  Link: </app-6652ebdc6aace9a78ec0.js>; rel=preload; as=script
+  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </a75e6e4d1b7feebda3ca1479eef2fbcc6776bb12-1394338478a8b046a203.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-5f1c9138184a81cae7bf.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/Blog/Gatsby와-Github-Pages를-활용한-블로그-배포/page-data.json>; rel=preload; as=fetch; crossorigin
 /회고록/블로그를 생성하다
   Link: </webpack-runtime-9e431868ed57b2a62fbf.js>; rel=preload; as=script
   Link: </framework-305b3707783ccc9d7ca6.js>; rel=preload; as=script
@@ -105,15 +114,6 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-5f1c9138184a81cae7bf.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/Blog/코드로-배우는-스프링부트/part1/chapter1/page-data.json>; rel=preload; as=fetch; crossorigin
-/Blog/Gatsby와 Github Pages를 활용한 블로그 배포
-  Link: </webpack-runtime-9e431868ed57b2a62fbf.js>; rel=preload; as=script
-  Link: </framework-305b3707783ccc9d7ca6.js>; rel=preload; as=script
-  Link: </app-6652ebdc6aace9a78ec0.js>; rel=preload; as=script
-  Link: </styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </a75e6e4d1b7feebda3ca1479eef2fbcc6776bb12-1394338478a8b046a203.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-5f1c9138184a81cae7bf.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/Blog/Gatsby와 Github Pages를 활용한 블로그 배포/page-data.json>; rel=preload; as=fetch; crossorigin
 /curses-counter-curses-and-more
   Link: </webpack-runtime-9e431868ed57b2a62fbf.js>; rel=preload; as=script
   Link: </framework-305b3707783ccc9d7ca6.js>; rel=preload; as=script
